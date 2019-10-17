@@ -4,7 +4,9 @@ body {
     margin: 0px;
     padding: 0px;
 }
-
+.fa fa-instagram{
+	color:white;
+}
 body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(background.jpg);
     background-size: 100% 100%;
@@ -248,7 +250,7 @@ a {
 
 footer {
     width: 100%;
-    background:#3c3d41;
+    background:black;
     line-height: 100%;
 
     border: 3px solid deeppink;
